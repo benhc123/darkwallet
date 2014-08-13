@@ -54,6 +54,8 @@ License
 ------------
 See the license [here](COPYRIGHT)
 
+Darkwallet is available under the [GNU AFFERO GENERAL PUBLIC LICENSE](http://www.gnu.org/licenses/agpl-3.0.html).
+
 Support Us!
 ------------
 
